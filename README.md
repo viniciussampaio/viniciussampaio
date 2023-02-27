@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcus Vinícius 🖐️
 
-- Atualmente trabalho com front-end 💻
-- Estudando React 📚
+- Desenvolvedor Front-End React e Next 💻
+- Estudando Inglês 📚
 
 ##
 
