@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Marcus Vinícius 🖐️
 
 - Desenvolvedor Front-End React e Next 💻
-- Estudando Inglês 📚
+- Estudando inglês 📚
+- Nível inglês: A2
 
 ##
 
